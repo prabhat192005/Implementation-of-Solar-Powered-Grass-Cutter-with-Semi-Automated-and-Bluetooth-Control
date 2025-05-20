@@ -1,7 +1,9 @@
 Solar-Driven Semi-Autonomous Eco-Friendly Grass Cutter
 
 Introduction
-This project presents a Solar Powered Grass Cutter with Semi-Automated and Bluetooth Control functionality, designed for smart and sustainable lawn maintenance. The system operates using solar energy, reducing dependency on conventional power sources. It features a semi-automated cutting mechanism that can be remotely controlled via a smartphone using Bluetooth, allowing users to manually guide or stop the cutter when needed. This dual-mode operation makes it ideal for small to medium-sized lawns where energy efficiency, user convenience, and eco-friendliness are priorities. The design combines clean energy usage with practical automation to promote green technology in everyday applications. [Picture](https://github.com/user-attachments/assets/e7753b9c-c03b-479a-b297-dc8ad538b899)
+This project presents a Solar Powered Grass Cutter with Semi-Automated and Bluetooth Control functionality, designed for smart and sustainable lawn maintenance. The system operates using solar energy, reducing dependency on conventional power sources. It features a semi-automated cutting mechanism that can be remotely controlled via a smartphone using Bluetooth, allowing users to manually guide or stop the cutter when needed. This dual-mode operation makes it ideal for small to medium-sized lawns where energy efficiency, user convenience, and eco-friendliness are priorities. The design combines clean energy usage with practical automation to promote green technology in everyday applications.
+
+[Picture](https://github.com/user-attachments/assets/e7753b9c-c03b-479a-b297-dc8ad538b899)
 
 
 Features
@@ -50,7 +52,9 @@ Components Used
 
 System Overview
 
-The Solar Powered Grass Cutter system integrates a solar panel to charge a battery, which powers the motor driving the cutting blades. The movement is controlled using a motor driver and wheels, enabling semi-automated navigation. A Bluetooth module allows wireless control via a smartphone app, enabling manual operation when needed. The system combines clean energy, efficient cutting, and user-friendly control for smart lawn maintenance.![App_Interface](https://github.com/user-attachments/assets/486e430a-3c3d-4a50-a04b-f2a0b582e7c8)
+The Solar Powered Grass Cutter system integrates a solar panel to charge a battery, which powers the motor driving the cutting blades. The movement is controlled using a motor driver and wheels, enabling semi-automated navigation. A Bluetooth module allows wireless control via a smartphone app, enabling manual operation when needed. The system combines clean energy, efficient cutting, and user-friendly control for smart lawn maintenance.
+
+![App_Interface](https://github.com/user-attachments/assets/486e430a-3c3d-4a50-a04b-f2a0b582e7c8)
 
 
 Creating the Mobile App Using MIT App Inventor
