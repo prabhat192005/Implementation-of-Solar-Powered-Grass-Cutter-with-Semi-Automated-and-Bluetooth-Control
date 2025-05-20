@@ -1,9 +1,9 @@
-Solar-Driven Semi-Autonomous Eco-Friendly Grass Cutter
+ Solar Powered Grass Cutter with Semi-Automated and Bluetooth Control
 
 Introduction
 This project presents a Solar Powered Grass Cutter with Semi-Automated and Bluetooth Control functionality, designed for smart and sustainable lawn maintenance. The system operates using solar energy, reducing dependency on conventional power sources. It features a semi-automated cutting mechanism that can be remotely controlled via a smartphone using Bluetooth, allowing users to manually guide or stop the cutter when needed. This dual-mode operation makes it ideal for small to medium-sized lawns where energy efficiency, user convenience, and eco-friendliness are priorities. The design combines clean energy usage with practical automation to promote green technology in everyday applications.
 
-[Picture](https://github.com/user-attachments/assets/e7753b9c-c03b-479a-b297-dc8ad538b899)
+![Picture](https://github.com/user-attachments/assets/e7753b9c-c03b-479a-b297-dc8ad538b899)
 
 
 Features
